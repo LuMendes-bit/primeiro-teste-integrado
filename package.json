@@ -1,0 +1,16 @@
+{
+  "name": "primeiro-teste-integrado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
